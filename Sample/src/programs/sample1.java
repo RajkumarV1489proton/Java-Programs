@@ -10,6 +10,9 @@ public class sample1 {
 			String c = s.substring(2);
 			
 			System.out.println(c);
+			
+			System.out.println(c);
+
 			} 
 
 
