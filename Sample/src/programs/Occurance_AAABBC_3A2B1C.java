@@ -30,9 +30,6 @@ public class Occurance_AAABBC_3A2B1C {
 				mp.put(ch, 1);
 			}
 			
-			
-			
-			
 		}
 		
 		for(Map.Entry<Character, Integer> entry : mp.entrySet()) {
