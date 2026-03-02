@@ -11,7 +11,6 @@ public class sample1 {
 			
 			System.out.println(c);
 			
-			System.out.println(c);
 
 			} 
 
