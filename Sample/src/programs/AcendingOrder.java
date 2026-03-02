@@ -23,7 +23,6 @@ public class AcendingOrder {
 		System.out.println(num[i]);
 	}
 	
-	
 }
 
 
