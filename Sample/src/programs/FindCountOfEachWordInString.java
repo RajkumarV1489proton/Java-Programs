@@ -17,7 +17,7 @@ public class FindCountOfEachWordInString {
 				emp.put(c,1);
 			}
 		}
-		System.out.println(emp);
+		System.out.println("output :"+emp);
 		
 		
 		
