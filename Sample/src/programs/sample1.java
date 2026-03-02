@@ -5,7 +5,7 @@ public class sample1 {
 	public static void main(String[] args) {
 	
 
-			String s = "I love India";
+			String s = "I love Chennai";
 			
 			String c = s.substring(2);
 			
