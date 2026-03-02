@@ -17,18 +17,18 @@ public class Occurance_AAABBC_3A2B1C {
 		
 		for(Character ch : S1) {
 			
+			System.out.println("" ); //////////////
+			
 			if(mp.containsKey(ch)) {
 				
 				Integer i = mp.get(ch);
+
 				
 				mp.put(ch, i+1);
 			} else {
 				
 				mp.put(ch, 1);
 			}
-			
-			
-			
 			
 		}
 		
